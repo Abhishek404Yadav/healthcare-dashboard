@@ -6,7 +6,7 @@ const ActivityFeed = () => {
     <div className="bg-[#F6FAFF] rounded-2xl p-6 healthcare-card">
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-xl font-bold text-gray-800">Activity</h3>
-        <p className="text-sm text-gray-500 mb-6">3 appointments this week</p>
+        <p className="text-sm text-gray-500 mb-6">3 appointments on this week</p>
       </div>
       
       {/* Line Chart using Recharts */}

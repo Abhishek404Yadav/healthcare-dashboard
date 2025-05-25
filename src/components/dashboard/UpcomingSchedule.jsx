@@ -1,4 +1,3 @@
-import React from 'react'
 import SimpleAppointmentCard from './SimpleAppointmentCard'
 import { upcomingAppointments } from '../../data/appointments'
 
