@@ -2,7 +2,7 @@
 
 A sleek and responsive healthcare dashboard built with **React**, **Tailwind CSS**, and **Vite**, designed to visualize upcoming appointments, health metrics, and patient stats in a clean, intuitive interface.
 
-🚀 **[Live Demo on Vercel](https://healthcare-dashboard-rouge.vercel.app/)**
+🚀 **[Live Demo on Vercel](https://healthcare-dashboard-rose.vercel.app/)**
 
 ---
 
