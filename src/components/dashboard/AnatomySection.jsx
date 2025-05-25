@@ -1,4 +1,4 @@
-import humanAnatomy from '../../assets/humanAnatomy.png';
+import humanAnatomy from '../../assets/humanAna.png';
 const AnatomySection = () => {
   return (
     <div className="bg-[#F6FAFF] rounded-2xl py-10 mx-15 max-w-2xs relative">
